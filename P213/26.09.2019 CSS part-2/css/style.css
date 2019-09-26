@@ -1,0 +1,120 @@
+/* .lorem {
+    border-style: solid;
+    border-width: 1px;
+    border-color: red;
+    border-bottom: 1px solid red;
+    border-top: 1px hidden blue;
+    border-radius: 10px;
+} */
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+/* .kvadrat {
+    width: 100px;
+    height: 100px;
+    border: 1px solid red;
+    margin-top: 10px;
+    margin-left: 15px;
+    margin: 10px 50px;
+} */
+
+
+/* div {
+    margin: 20px;
+} */
+
+
+/* a {
+    border: 1px solid red;
+    padding-left: 20px;
+    padding-right: 15px;
+    margin-left: 20px;
+    padding-top: 10px;
+    padding: 50px;
+    background: yellow;
+} */
+
+
+/* h1 {
+    padding: 20px;
+    background: green;
+} */
+
+
+/* .parent {
+    margin: 10px;
+    display: inline-block;
+    width: 70%;
+    visibility: hidden;
+}
+
+span {
+    display: block;
+} */
+
+
+/* .test {
+    margin: 10px;
+    background: yellow;
+    max-width: 700px;
+    height: 50%;
+} */
+
+
+/* .colordiv {
+    width: 200px;
+    height: 200px;
+    float: right;
+}
+
+.red {
+    background: red;
+    float: right;
+    width: 20%;
+}
+
+.yellow {
+    background: yellow;
+    float: right;
+}
+
+.green {
+    background: green;
+    width: 80%;
+}
+
+.clearfix {
+    clear: both;
+} */
+
+.menu {
+    margin: 0 50px;
+}
+
+.menu ul li {
+    display: inline-block;
+    padding: 10px;
+}
+
+.menu ul li a {
+    text-decoration: none;
+}
+
+.menu ul li:hover {
+    background: grey;
+}
+
+.menu-list {
+    float: right;
+}
+
+.logo {
+    background: red;
+    width: 20%;
+    height: 50px;
+    float: left;
+}
